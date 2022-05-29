@@ -7,14 +7,14 @@
 
 .skull-image {
     display: block;
-    width: 80%;
+    width: 60%;
     height: auto;
 }
 
 .github-image {
     display: block;
-    width: auto;
     height: 10%;
+    width: auto;
 }
 
 .github-caption {
