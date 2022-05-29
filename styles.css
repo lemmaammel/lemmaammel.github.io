@@ -11,13 +11,13 @@
     height: auto;
 }
 
-.github-image {
+.link-image {
     display: block;
     height: 10%;
     width: auto;
 }
 
-.github-caption {
+.link-caption {
     text-align: center;
     font-family: Courier;
     color: #cef3f5;
