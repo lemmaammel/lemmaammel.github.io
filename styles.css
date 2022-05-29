@@ -1,23 +1,23 @@
-.col {
+.col, .col-7 {
     font-family: Courier;
     color: #cef3f5;
     margin-top: auto;
     margin-bottom: auto;
     padding-right: 20px;
-    padding-bottom: 20px;
+    padding-bottom: 10px;
     padding-left: 20px;
 }
 
 .skull-image {
     display: block;
-    width: 80%;
+    width: 85%;
     height: auto;
     margin-left: auto;
     margin-right: auto;
 }
 
 .link-image {
-    height: 15vh;
+    height: 12vh;
     margin-left: auto;
     margin-right: auto;
     padding-top: 20px;
@@ -42,6 +42,10 @@
     font-size: 1.5em;
 }
 
+.subsubtitle {
+    font-size: 1.15em;
+}
+
 .red {
     color: #ffafaf;
 }
@@ -60,4 +64,32 @@
 
 .blue {
     color: #9cf7ff;
+}
+
+.bullet-point {
+    height: 3vh;
+    display:inline
+}
+
+.wheel {
+    height: 10vh;
+    display:inline
+}
+
+.rainbow_strip {
+    height: 2vh;
+    width: 100%;
+    z-index: 11;
+}
+
+.rainbow {
+    padding-bottom: 30px;
+}
+
+#i1 {
+    z-index: 10;
+    position:absolute; 
+    left: 500; 
+    bottom: 700;
+    height: 20%;
 }
