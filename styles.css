@@ -39,3 +39,23 @@
 .subtitle {
     font-size: 1.5em;
 }
+
+.red {
+    color: #ffafaf;
+}
+
+.orange {
+    color: #ffd7a7;
+}
+
+.yellow {
+    color: #fdffb7;
+}
+
+.green {
+    color: #cbffbf;
+}
+
+.blue {
+    color: #9cf7ff;
+}
