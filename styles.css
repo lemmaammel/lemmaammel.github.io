@@ -93,3 +93,14 @@
     bottom: 700;
     height: 20%;
 }
+
+h1 {
+    text-align:center; 
+    font-size: 4em;
+}
+
+@media screen and (max-width: 600px) {
+    h1 {
+        font-size: 2em;
+    }
+  }
