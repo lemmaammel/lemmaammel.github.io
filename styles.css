@@ -7,20 +7,29 @@
 
 .skull-image {
     display: block;
-    width: 85%;
+    width: 75%;
     height: auto;
     margin-left: auto;
     margin-right: auto;
 }
 
 .link-image {
-    height: 10vh;
+    height: 15vh;
     margin-left: auto;
     margin-right: auto;
+    padding-top: 20px;
+    padding-right: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
 }
 
 .link-caption {
     text-align: center;
     font-family: Courier;
     color: #cef3f5;
+}
+
+a {
+    margin-left: auto;
+    margin-right: auto;
 }
