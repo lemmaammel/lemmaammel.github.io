@@ -5,6 +5,13 @@
     margin-bottom: auto;
 }
 
+.col-sm-12 {
+    font-family: Courier;
+    color: #cef3f5;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
 .skull-image {
     display: block;
     width: 75%;
