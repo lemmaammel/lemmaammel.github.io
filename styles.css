@@ -141,6 +141,11 @@ li:before {
     h1 {
         font-size: 1.25em;
     }
+    .subsubtitle {
+        padding-left: 30px;
+        padding-right: 30px;
+    }
+
 }
 
 .waves {
