@@ -144,6 +144,7 @@ li:before {
 }
 
 .waves {
-    width: 100%;
+    width: 100vh;
+    height:auto;
     z-index: -1;
 }
