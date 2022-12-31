@@ -136,7 +136,7 @@ li:before {
     background-repeat: no-repeat;
     background-image: url("images/bullet_point.png");
     background-size: 1em 1em;
-    background-position: 1 1em;
+    background-position: 1 10em;
 }
 
 
