@@ -127,8 +127,8 @@ li:before {
     text-indent: -999999px;
     left: -2em;
     top: -0.05em;
-    width: 2em;
-    height: 10em;  
+    width: 1em;
+    height: 5em;  
     background-repeat: no-repeat;
     background-image: url("images/bullet_point.png");
     background-size: 1.5em 1.5em;
