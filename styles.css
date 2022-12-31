@@ -1,3 +1,7 @@
+body {
+    overflow-x: hidden;
+}
+
 .col, #c1, #c2 {
     font-family: Courier;
     color: #cef3f5;
