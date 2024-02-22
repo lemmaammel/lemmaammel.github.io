@@ -125,7 +125,6 @@ li {
 }
 
 li:before {
-    position: absolute;
     display: block;
     content: '\2022'; 
     background-repeat: no-repeat;
