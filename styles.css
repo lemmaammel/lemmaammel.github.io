@@ -130,7 +130,7 @@ li:before {
     content: '\2022'; 
     text-indent: -999999px;
     left: -2em;
-    top: -1em;
+    top: -3em;
     width: 1em;
     height: 5em;  
     background-repeat: no-repeat;
